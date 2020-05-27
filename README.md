@@ -1,6 +1,6 @@
 # Implementing Prime
 
-## Objectives
+## Objectives!
 
 1. Practice iteration and looping.
 2. Practice defining methods and controlling return values.
