@@ -7,7 +7,7 @@ require 'pry'
 # starting at 1. If any of them (besides one) returns true, statement is false
 
 def prime?(x)
-    range = (1..x-1).to_a
+    range = (1...x).to_a
     if x < 1
         false
     else
